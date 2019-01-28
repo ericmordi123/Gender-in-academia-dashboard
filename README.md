@@ -1,6 +1,6 @@
-#Gender In Academia graphs
+# Gender In Academia graphs
 
-###Purpose
+### Purpose
 I am using key javascript libraries such as D3, DC, and Crossfilter to create an interactive dashboard.
 The dashboard itself is laid out using Bootstrap (bootswatch theme) and the raw data relates to salaries and participation in academia broken down by gender.
 I have utilised these libraries aswell as my knowledge of HTML, CSS and javascript to turn the raw data into useful visualizations.
